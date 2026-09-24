@@ -1,0 +1,6 @@
+{
+  "name": "Autumn Rain - City Park Digital Illustration",
+  "description": "An interactive digital illustration of a wet city park sidewalk on a rainy autumn day featuring modern teal and orange color harmony, glowing street lamps, misty skyline, dynamic rain physics, and atmospheric soundscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
